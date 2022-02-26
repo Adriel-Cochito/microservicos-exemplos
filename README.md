@@ -1,5 +1,5 @@
-# microservicos
- Microserviços utilizando PostgreeSql e Spring Boot
+# Aplicações de Microservicos
+ Microserviços utilizando PostgreeSQL e Spring Boot
 
  ## O que faz essa aplicação?
  - Cria uma API em formato de microserviço  que permite o envio de email automaticamente ou programado partindo do email de envio para o destinatário descritos no método POST de requisição a API
